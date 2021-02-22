@@ -9,8 +9,8 @@ I am a programming enthuisiast, currently studying Computer Science at Nottingha
 The languages I know, from most experienced to least:
 * C#
 * Python
-* C++
 * HTML/CSS
+* C++
 * Java
 * JavaScript/TypeScript
 * Visual Basic
@@ -36,4 +36,4 @@ My hobbies include:
 
 
 # Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWaters02&langs_count=10&layout=compact&exclude_repo=metasploit-framework,backfire&hide=)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWaters02&langs_count=10&layout=compact&exclude_repo=metasploit-framework,Backfire&hide=)
