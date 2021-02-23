@@ -31,7 +31,7 @@ I am a programming enthuisiast, currently studying Computer Science at Nottingha
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=blueviolet)
 
 ![](https://img.shields.io/badge/Pentesting-HackTheBox-informational?style=flat&logo=hack-the-box&logoColor=white&color=green)
-![](https://img.shields.io/badge/Tools-TryHackMe-informational?style=flat&logo=try-hack-me&logoColor=white&color=green)
+![](https://img.shields.io/badge/Pentesting-TryHackMe-informational?style=flat&logo=tryhackme&logoColor=white&color=green)
 
 ## Hobbies
 * Playing games
