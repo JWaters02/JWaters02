@@ -6,6 +6,24 @@ I am a programming enthuisiast, currently studying Computer Science at Nottingha
 * Cybersecurity
 * Website development
 
+## Hobbies
+* Playing games
+* Making games
+  * Participating in game jams (e.g. [GMTK 2020](https://itch.io/jam/gmtk-2020/rate/699722))
+  * Making games in free time in Unity or GODOT
+* Taking part in or building Capture the Flag contensts
+* General programming projects
+* Pentesting
+  * [HackTheBox](https://app.hackthebox.eu/profile/413135)
+  * TryHackMe
+* Making websites
+* Building PCs
+* Sci-Fi
+* Cryptic crosswords
+* Tabletop games
+* Cycling
+* Reading
+
 ## Languages and Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/OS-Kali-informational?style=flat&logo=kali-linux&logoColor=white&color=orange)
@@ -32,25 +50,6 @@ I am a programming enthuisiast, currently studying Computer Science at Nottingha
 
 ![](https://img.shields.io/badge/Pentesting-HackTheBox-informational?style=flat&logo=hack-the-box&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Pentesting-TryHackMe-informational?style=flat&logo=tryhackme&logoColor=white&color=green)
-
-## Hobbies
-* Playing games
-* Making games
-  * Participating in game jams (e.g. [GMTK 2020](https://itch.io/jam/gmtk-2020/rate/699722))
-  * Making games in free time in Unity or GODOT
-* Taking part in or building Capture the Flag contensts
-* General programming projects
-* Pentesting
-  * [HackTheBox](https://app.hackthebox.eu/profile/413135)
-  * TryHackMe
-* Making websites
-* Building PCs
-* Sci-Fi
-* Cryptic crosswords
-* Tabletop games
-* Cycling
-* Reading
-
 
 ## Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWaters02&langs_count=10&layout=compact&exclude_repo=metasploit-framework,Backfire&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true)
