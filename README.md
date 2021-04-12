@@ -19,7 +19,6 @@ I am a programming enthuisiast, currently studying Computer Science at Nottingha
 * [Making websites](https://jwaters.dev/)
 * Building PCs
 * Sci-Fi
-* Cryptic crosswords
 * Tabletop games
 * Cycling
 * Reading
