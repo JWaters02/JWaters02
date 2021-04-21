@@ -52,4 +52,4 @@ I am a programming enthuisiast, currently studying Computer Science at Nottingha
 ![](https://img.shields.io/badge/Pentesting-TryHackMe-informational?style=flat&logo=tryhackme&logoColor=white&color=green)
 
 ## Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWaters02&langs_count=10&layout=compact&exclude_repo=metasploit-framework,Backfire&hide=CMake,Makerfile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWaters02&langs_count=10&layout=compact&exclude_repo=metasploit-framework,Backfire&hide=CMake,Makefile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true)
