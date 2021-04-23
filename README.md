@@ -1,4 +1,4 @@
-# Recent Achievement!!
+# Recent Achievement:
 
 [![Header](https://raw.githubusercontent.com/JWaters02/JWaters02/main/assets/recentAchievementCTF.png "Header")](https://jwaters.dev/)
 
