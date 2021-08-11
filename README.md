@@ -1,5 +1,3 @@
-# Recent Achievement:
-
 [![Header](https://raw.githubusercontent.com/JWaters02/JWaters02/main/assets/readmebanner.png "Header")](https://jwaters.dev/)
 
 I am a programming enthuisiast, currently studying Computer Science at Nottingham Trent University, and a committee member for the university's [Developer's Society](https://devsoc.co.uk). I am interested in the following sectors of industry:
