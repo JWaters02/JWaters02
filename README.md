@@ -12,11 +12,14 @@ I am a programming enthuisiast, currently studying Computer Science at Nottingha
 * Making games
   * Participating in game jams (e.g. [GMTK 2020](https://itch.io/jam/gmtk-2020/rate/699722))
   * Making games in free time in Unity or GODOT
+* Modding games in Unreal Engine
+  * [Deep Rock Galactic](https://mod.io/members/buckminsterfullerene)
+  * [Tool and guides creation](https://github.com/Buckminsterfullerene02)
 * Taking part in or building Capture the Flag contensts
 * General programming projects
 * Pentesting
   * [HackTheBox](https://app.hackthebox.eu/profile/413135)
-  * TryHackMe
+  * [TryHackMe](https://tryhackme.com/p/Bobby45800)
 * [Making websites](https://jwaters.dev/)
 * Building PCs
 * Sci-Fi
