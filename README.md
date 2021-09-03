@@ -35,6 +35,7 @@ I am a programming enthuisiast, currently studying Computer Science at Nottingha
 ![](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/IDE-CLion-informational?style=flat&logo=jetbrains&logoColor=white&color=blue)
+![](https://img.shields.io/badge/IDE-Rider-informational?style=flat&logo=jetbrains&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2aa5dc)
 
@@ -47,8 +48,10 @@ I am a programming enthuisiast, currently studying Computer Science at Nottingha
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-LUA-informational?style=flat&logo=lua&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Tools-Unity-informational?style=flat&logo=unity&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Tools-Unreal_Engine-informational?style=flat&logo=unreal-engine&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Tools-GODOT-informational?style=flat&logo=godot-engine&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=blueviolet)
 
