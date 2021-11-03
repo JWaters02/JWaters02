@@ -11,7 +11,7 @@ I am a programming enthuisiast, currently studying Computer Science at Nottingha
 * Playing games
 * Making games
   * Participating in game jams (e.g. [GMTK 2020](https://itch.io/jam/gmtk-2020/rate/699722))
-  * Making games in free time in Unity or GODOT
+  * Making games/projects in free time in Unreal Engine 5
 * Modding games in Unreal Engine
   * [Deep Rock Galactic](https://mod.io/members/buckminsterfullerene)
   * [Tool and guides creation](https://github.com/Buckminsterfullerene02)
@@ -35,15 +35,17 @@ I am a programming enthuisiast, currently studying Computer Science at Nottingha
 ![](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/IDE-CLion-informational?style=flat&logo=jetbrains&logoColor=white&color=blue)
-![](https://img.shields.io/badge/IDE-Rider-informational?style=flat&logo=jetbrains&logoColor=white&color=blue)
+![](https://img.shields.io/badge/IDE-Rider_for_Unreal_Engine-informational?style=flat&logo=jetbrains&logoColor=white&color=blue)
+![](https://img.shields.io/badge/IDE-RStudio-informational?style=flat&logo=rstudio&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2aa5dc)
 
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cpp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
 
@@ -51,6 +53,7 @@ I am a programming enthuisiast, currently studying Computer Science at Nottingha
 ![](https://img.shields.io/badge/Tools-Unreal_Engine-informational?style=flat&logo=unreal-engine&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Tools-GODOT-informational?style=flat&logo=godot-engine&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=blueviolet)
 
 ![](https://img.shields.io/badge/Pentesting-HackTheBox-informational?style=flat&logo=hack-the-box&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Pentesting-TryHackMe-informational?style=flat&logo=tryhackme&logoColor=white&color=green)
