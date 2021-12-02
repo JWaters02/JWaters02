@@ -6,6 +6,7 @@ I am a programming enthuisiast, currently studying Computer Science at Nottingha
 * Cybersecurity
 * Website development
 * Software engineering
+* Mainframe developement
 
 ## Hobbies
 * Playing games
