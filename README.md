@@ -26,7 +26,6 @@ I am a programming enthuisiast, currently studying Computer Science at Nottingha
 * Sci-Fi
 * Tabletop games
 * Cycling
-* Reading
 
 ## Languages and Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=orange)
