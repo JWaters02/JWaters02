@@ -15,7 +15,7 @@ I am a programming enthuisiast, currently studying Computer Science at Nottingha
   * Making games/projects in free time in Unreal Engine 5
 * Modding games in Unreal Engine
   * [Deep Rock Galactic](https://mod.io/members/buckminsterfullerene)
-  * [Tool and guides creation](https://github.com/Buckminsterfullerene02)
+  * Tool and guides creation
 * Taking part in or building Capture the Flag contensts
 * General programming projects
 * Pentesting
