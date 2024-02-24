@@ -25,8 +25,8 @@ I am a programming enthuisiast, currently studying Computer Science at Nottingha
 * Cycling
 
 ## Github Stats
-![Top Langs](https://github-readme-stats-delta-eight-48.vercel.app/api/top-langs/?username=JWaters02&langs_count=10&layout=compact&exclude_repo=metasploit-framework,Backfire&hide=CMake,Makefile,jupyter-notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWaters02&langs_count=10&layout=compact&exclude_repo=metasploit-framework,Backfire&hide=CMake,Makefile,jupyter-notebook&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117&hide_border=true)
 
-![Main Stats](https://github-readme-stats-delta-eight-48.vercel.app/api?username=JWaters02&show_icons=true&theme=transparent)
+![Main Stats](https://github-readme-stats.vercel.app/api?username=JWaters02&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117&count_private=false&include_all_commits=true&hide_border=true&hide_title=false)
 
-![Alt Stats](https://github-readme-stats-delta-eight-48.vercel.app/api?username=Buckminsterfullerene02&show_icons=true&theme=transparent)
+![Alt Stats](https://github-readme-stats.vercel.app/api?username=Buckminsterfullerene02&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117&count_private=false&include_all_commits=true&hide_border=true&hide_title=false)
