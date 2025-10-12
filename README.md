@@ -1,13 +1,12 @@
 [![Header](https://raw.githubusercontent.com/JWaters02/JWaters02/main/assets/readmebanner.png "Header")](https://jwaters.dev/)
 
-I am a programming enthuisiast, recently graduated from studying Computer Science at Nottingham Trent University. 
+Hello world. I am a mainframe application developer and like to explore and contribute ways to modernise the mainframe platform.
 
 ## Hobbies
-* Learning Korean & Chinese
+* Learning Korean & Mandarin
+* Contributing to open source
+* Traveling
 * Playing games
-* Making games
-  * Participating in game jams (e.g. [GMTK 2020](https://itch.io/jam/gmtk-2020/rate/699722))
-  * Making games/projects in free time in Unreal Engine 5
 * Modding games in Unreal Engine
   * [Deep Rock Galactic](https://mod.io/members/buckminsterfullerene)
   * Tool and guides creation
